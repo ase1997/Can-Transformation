@@ -1,0 +1,2 @@
+robotics_module1
+-DCATKIN_DEVEL_PREFIX=/home/khoad/ros1_ws/devel -DCMAKE_INSTALL_PREFIX=/home/khoad/ros1_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/khoad/ros1_ws/devel
+
+Name: robotics_module1
+Description: Description of robotics_module1
+Version: 1.0.0
+Cflags: -I/home/khoad/ros1_ws/src/robotics_module1/include
+Libs: -L${prefix}/lib 
+Requires: roscpp geometry_msgs
