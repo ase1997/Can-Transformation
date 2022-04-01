@@ -28,6 +28,8 @@ Figure 2. Desired Outcome.
 
   - Simulate/visualize the process on Gazeboo
 
+## Running Code
+
 ## Authors
 Khoa Do
 
