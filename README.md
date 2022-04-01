@@ -6,7 +6,7 @@
 NCSU ECE 555 (Computer Control of Robots) ROS Assignment
   - Re-order 12 coke cans in a desired poses on a table while visualizing on Gazeboo simulation tool
 
-## Dependencies:
+## Dependencies
   - Ubuntu Linux 20.04 LTS (Virtual Box on Windows 10)
   - ROS Neotic 
   - Python3/C++11 or above
