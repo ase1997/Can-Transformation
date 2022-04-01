@@ -1,31 +1,31 @@
-# Laplacian-Blob-Detector
+# Can-Transformation
 
-## Type: Academic Group Project
+## Type: Academic Individual Assignment
 
-## Project Description
-NCSU ECE 558 (Digital Imaging Systems) Project 3
-  - Implement Laplacian blob detector for images in Python
+## Assginment Description
+NCSU ECE 555 (Computer Control of Robots) ROS Assgiment
+  - Re-order 12 coke cans in a desired poses on a table while visualizing on Gazeboo simulation tool
 
 ## Dependencies:
-  - numpy
-  - cv2
-  - time
-  - matplotlib
-  - Spyder IDE (used), Linux, or Anaconda on Windows 10 Education
+  - Ubuntu Linux 20.04 LTS (Virtual Box on Windows 10)
+  - ROS Neotic 
+  - Python3/C++11 or above
   
-## About the Repo.
-  - kddo_dfmunoz_code contains **main.py** that are carefully commented.  The algortihm developed is LoG/SIFT.  The input image's size stay constant and is convoled with a Guassian kernel at different sizes. The 2-D convolution is modifed to perform computation in frequency domain using 2-D FFT and iFFT functions using in **ECE 558 (Digital Imaging Systems) Project 1**
-  - Final report details the implementations of the functions in this project along with the results + analysis
+## Tasks
+  - Write CMake and launch files to spawn 12 coke cans at random poses and a table at x-y-z (1,0,0) rotated 90 degress about z-axis and its center is at (1,0,1.05)
+  - Write a code to transform 12 coke cans in the following desired poses
+<p align="center">
+  ![Figure 1. Desired Result of Cans Transformation](https://github.com/ase1997/Can-Transformation/blob/main/ordered_cans.PNG)
+<p align="center">
+  - Simulate/visualize the process on Gazeboo
+
+
 
 ## Authors
 Khoa Do, Derik Munoz.
 
 ## Reference
-[1]  D. Recchia, “Scale Invariant Blob Detection,” Recchia's Portfolio. [Online]. Available: https://www.drecchia.ca/scale-invariant-blob-detection. [Accessed: 30-Nov-2021].
-
-[2] “DSP Tricks: Computing Inverse FFTs Using the Forward FFT,” Embedded.com, 16-Nov-2010. [Online]. Available: https://www.embedded.com/dsp-tricks-computing-inverse-ffts-using-the-forward-fft/. [Accessed: 30-Nov-2021].
-
-[3] https://github.com/scikit-image/scikit-image/blob/main/skimage/feature/blob.py#L401-L564.
+N/A
 
 ## Additional Notes
 N/A
