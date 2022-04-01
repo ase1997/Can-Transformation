@@ -37,7 +37,7 @@ Figure 2. Desired Outcome.
   - open another terminal and `source devel/setup.bash`
   - `rosrun robotics_module1 setup_table_v2 or settup_table`
 
-## Authors
+## Author
 Khoa Do
 
 ## Reference
