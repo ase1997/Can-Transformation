@@ -19,6 +19,7 @@ NCSU ECE 555 (Computer Control of Robots) ROS Assgiment
 <p align="center">
 Figure 1. Desired Outcome.
 </p>
+
   - Simulate/visualize the process on Gazeboo
 
 ## Authors
