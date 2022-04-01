@@ -16,7 +16,7 @@ NCSU ECE 555 (Computer Control of Robots) ROS Assgiment
   - Write a code to transform 12 coke cans in the following desired poses
 <p align="center">
   ![Figure 1. Desired Result of Cans Transformation](https://github.com/ase1997/Can-Transformation/blob/main/ordered_cans.PNG?raw=true)
-<p align="center">
+</p>
   - Simulate/visualize the process on Gazeboo
 
 
