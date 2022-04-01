@@ -15,7 +15,7 @@ NCSU ECE 555 (Computer Control of Robots) ROS Assgiment
   - Write CMake and launch files to spawn 12 coke cans at random poses and a table at x-y-z (1,0,0) rotated 90 degress about z-axis and its center is at (1,0,1.05)
   - Write a code to transform 12 coke cans in the following desired poses
 <p align="center">
-  ![Figure 1. Desired Result of Cans Transformation](https://github.com/ase1997/Can-Transformation/blob/main/ordered_cans.PNG)
+  ![Figure 1. Desired Result of Cans Transformation](https://github.com/ase1997/Can-Transformation/blob/main/ordered_cans.PNG?raw=true)
 <p align="center">
   - Simulate/visualize the process on Gazeboo
 
