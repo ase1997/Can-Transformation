@@ -30,12 +30,12 @@ Figure 2. Desired Outcome.
 
 ## Running Code
   - open a terminal
-  - 'git clone' to a workspace
-  - cd to that workspace and catkin_make
-  - source devel/setup.bash
-  - roslaunch robotics_module1a module1.launch
-  - open another terminal and source devel/setup.bash
-  - rosrun robotics_module1 setup_table_v2 or settup_table
+  - `git clone` to a workspace
+  - `cd` to that workspace and `catkin_make`
+  - `source devel/setup.bash`
+  - `roslaunch robotics_module1a module1.launch`
+  - open another terminal and `source devel/setup.bash`
+  - `rosrun robotics_module1 setup_table_v2 or settup_table`
 
 ## Authors
 Khoa Do
