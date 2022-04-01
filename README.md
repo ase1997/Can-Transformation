@@ -20,7 +20,7 @@ NCSU ECE 555 (Computer Control of Robots) ROS Assgiment
 </p>
   - Simulate/visualize the process on Gazeboo
 
-
+![foxdemo](https://github.com/ase1997/Can-Transformation/blob/main/ordered_cans.png)
 
 ## Authors
 Khoa Do, Derik Munoz.
